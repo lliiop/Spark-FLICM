@@ -1,2 +1,2 @@
 # Spark-FLICM
-using FLICM algorithm to cluster on Spark
+using FLICM algorithm for clustering on Spark
